@@ -2,6 +2,7 @@
 pragma solidity >=0.5.0;
 
 import './TickMath.sol';
+import './UnsafeMath.sol';
 
 /// @title Math library for computing sqrt prices from price and vice versa.
 /// @notice Computes sqrt price for price.
