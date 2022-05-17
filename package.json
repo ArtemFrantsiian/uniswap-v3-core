@@ -54,7 +54,6 @@
   },
   "scripts": {
     "preinstall": "hardhat compile",
-    "postinstall": "hardhat compile",
     "compile": "hardhat compile",
     "test": "hardhat test"
   }
