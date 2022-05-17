@@ -53,6 +53,8 @@
     "typescript": "^3.7.3"
   },
   "scripts": {
+    "preinstall": "hardhat compile",
+    "postinstall": "hardhat compile",
     "compile": "hardhat compile",
     "test": "hardhat test"
   }
