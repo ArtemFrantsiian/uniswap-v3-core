@@ -54,7 +54,7 @@
     "typescript": "^3.7.3"
   },
   "scripts": {
-    "preinstall": "npx hardhat compile",
+    "preinstall": "hardhat compile",
     "compile": "hardhat compile",
     "test": "hardhat test"
   }
